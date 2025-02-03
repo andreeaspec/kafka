@@ -24,7 +24,7 @@ Scala 2.13 is the only supported version in Apache Kafka.
 
 ### Build a jar and run it ###
     ./gradlew jar
-
+Hello
 Follow instructions in https://kafka.apache.org/quickstart
 
 ### Build source jar ###
